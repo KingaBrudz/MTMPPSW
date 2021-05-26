@@ -9,8 +9,8 @@ void Delay(unsigned uiMiliSecs)
 		;
 	}
 }
-
-int main()
+//gittest
+int main() 
 {
 	LedInit();
 	KeyboardInit();
