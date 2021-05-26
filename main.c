@@ -9,7 +9,7 @@ void Delay(unsigned uiMiliSecs)
 		;
 	}
 }
-//gittest
+//git
 int main() 
 {
 	LedInit();
